@@ -5,7 +5,7 @@ This repository holds release files only.
 
 ## macOS
 
-Download [`Horizon-0.7.3.dmg`](https://github.com/harshach/horizon-releases/releases/download/v0.7.3/Horizon-0.7.3.dmg),
+Download [`Horizon-0.7.4.dmg`](https://github.com/harshach/horizon-releases/releases/download/v0.7.4/Horizon-0.7.4.dmg),
 open it, and drag Horizon into Applications. It is signed with a Developer ID
 and notarized by Apple, so it opens like any other app. It does not update
 itself yet: install the next release's DMG the same way.
@@ -13,8 +13,8 @@ itself yet: install the next release's DMG the same way.
 ## Arch Linux and Omarchy
 
 ```sh
-curl -fLO https://github.com/harshach/horizon-releases/releases/download/v0.7.3/horizon-desktop-bin-0.7.3-1-$(uname -m).pkg.tar.zst
-sudo pacman -U horizon-desktop-bin-0.7.3-1-$(uname -m).pkg.tar.zst
+curl -fLO https://github.com/harshach/horizon-releases/releases/download/v0.7.4/horizon-desktop-bin-0.7.4-1-$(uname -m).pkg.tar.zst
+sudo pacman -U horizon-desktop-bin-0.7.4-1-$(uname -m).pkg.tar.zst
 ```
 
 The package installs the desktop app, the Host service and the CLI, with a
