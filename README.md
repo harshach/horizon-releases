@@ -3,6 +3,13 @@
 Downloads for Horizon — a terminal-first workspace for running CLI agents.
 This repository holds release files only.
 
+## macOS
+
+Download [`Horizon-0.7.3.dmg`](https://github.com/harshach/horizon-releases/releases/download/v0.7.3/Horizon-0.7.3.dmg),
+open it, and drag Horizon into Applications. It is signed with a Developer ID
+and notarized by Apple, so it opens like any other app. It does not update
+itself yet: install the next release's DMG the same way.
+
 ## Arch Linux and Omarchy
 
 ```sh
